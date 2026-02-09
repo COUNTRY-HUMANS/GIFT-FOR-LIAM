@@ -10,10 +10,10 @@
 <img src="https://64.media.tumblr.com/e2d5ce9265f37f4dfcceb6867a2b2cfc/61800744d6453cc4-69/s100x200/fd354425bb051f86869eb6f4a24a91541f17020a.gifv">
 <img src="https://files.catbox.moe/pcan1q.gif">
   
-  $\color{bedaf7}\large{\texttt{meow meow meow meow meow meow}}$ </br>
-    $\color{7ab3ef}\large{\texttt{meow meow meow meow meow meow}}$ </br>
-    $\color{368ce7}\large{\texttt{meow meow meow meow meow meow}}$ </br>
-    $\color{1666ba}\large{\texttt{meow meow meow meow meow meow}}$ </br>
+  $\color{bedaf7}\large{\texttt{meow meow meow meow meow meow meow meow meow meow meow meow}}$ </br>
+  $\color{7ab3ef}\large{\texttt{meow meow meow meow meow meow meow meow meow meow meow meow}}$ </br>
+   $\color{368ce7}\large{\texttt{meow meow meow meow meow meow meow meow meow meow meow meow}}$ </br>
+  $\color{1666ba}\large{\texttt{meow meow meow meow meow meow meow meow meow meow meow meow}}$ </br>
 
   $\color{Cyan}\Large{\texttt{▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄}}$
   

@@ -4,4 +4,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bradsnep.bradsnep&left_color=black&right_color=blue&left_text=VISITORS;"/>
 <img src="https://64.media.tumblr.com/e7f519e2a57dda420e4d334a0dbc5984/13918b51405e73ff-ea/s2048x3072/1b09667d87598549ff17a62d88a9db7432efbf93.pnj">
   
-  $\color{Cyan}\Large{\texttt{════════════════════════════════}}$
+  $\color{Cyan}\Large{\texttt{▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄}}$
